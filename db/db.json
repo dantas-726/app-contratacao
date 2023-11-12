@@ -1,0 +1,62 @@
+{
+  "ingredientes": {
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "HTML"
+      },
+      {
+        "id": 2,
+        "tipo": "CSS"
+      },
+      {
+        "id": 3,
+        "tipo": "Java"
+      },
+      {
+        "id": 4,
+        "tipo": "C"
+      },
+      {
+        "id": 6,
+        "tipo": "SQL"
+      },
+      {
+        "id": 7,
+        "tipo": "JavaScript"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Analizando"
+    },
+    {
+      "id": 2,
+      "tipo": "Contratato"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "sdasd",
+      "contato": "asdasd",
+      "data": "02/11/2023",
+      "opcionais": [
+        "HTML",
+        "Java",
+        "SQL"
+      ],
+      "status": "Analizando",
+      "id": 2
+    },
+    {
+      "nome": "aaaaa",
+      "contato": "aaaaaaaa",
+      "habilidades": "aaaaaa",
+      "status": "Não contratado",
+      "contratacao_data": "02/11/2023",
+      "id": 3
+    }
+  ]
+}
